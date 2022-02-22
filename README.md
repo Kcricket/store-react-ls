@@ -1,3 +1,17 @@
+This project should be avilable at: https://react-firebase-store-f7738.web.app/
+
+The making process was very simple, I just tuk a simple template from www.free-css.com for
+the design. Then I also tuk some sample products from a nice api called FakeStoreApi (public).
+I used the firebase/firestore storage service to store these products, and made a React frontend
+so I could simulate a small shop with a Cart. The Cart stores on localStorage, so even if you
+refresh the changes you made would stay.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
